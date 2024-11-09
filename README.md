@@ -1,2 +1,2 @@
-# MarcHvidkjaer.com
+# marchvidkjaer.com
 My new website
