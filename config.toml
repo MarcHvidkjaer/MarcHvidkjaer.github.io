@@ -1,6 +1,7 @@
 baseURL = 'https://marchvidkjaer.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+publishDir = "docs"
 
 [markup]
   [markup.goldmark]
