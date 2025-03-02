@@ -1,4 +1,4 @@
-baseURL = 'marchvidkjaer.com'
+baseURL = 'https://marchvidkjaer.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
