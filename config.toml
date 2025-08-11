@@ -1,8 +1,12 @@
 baseURL = 'https://marchvidkjaer.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My marchvidkjaer.com site'
+publishDir = "docs"
+enableGitInfo = true
+
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+

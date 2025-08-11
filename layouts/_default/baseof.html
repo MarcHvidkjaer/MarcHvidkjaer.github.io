@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+  <header>
+    <div class="inner">
+      <nav>
+        <a href="{{ "/" | relURL }}">Home</a>
+        <a href="{{ "/pages/media/" | relURL }}">Media</a>
+        <a href="{{ "/pages/research/" | relURL }}">Research</a>
+        <a href="{{ "/pages/teaching/" | relURL }}">Teaching</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container">
+    <aside class="sidebar">
+      <img src="{{ "images/profile_harvard.jpg" | relURL }}" alt="Profile Picture">
+      <p class="bold">Marc Sabatier Hvidkjær</p>
+      <p>PhD Student</p>
+      <p class="dept">Department of Government</p>
+      <p>Harvard University</p>
+      <div class="contact-info">
+        <a href="{{ "files/cv_2024.pdf" | relURL }}">CV</a>
+        <a href="mailto:marchvidkjaer@fas.harvard.edu">Email</a>
+        <a href="https://scholar.google.com/citations?user=RXuikD0AAAAJ&hl=en&inst=7575085548378563675&oi=ao" target="_blank" rel="noopener">Google Scholar</a>
+      </div>
+    </aside>
+
+    <main class="content">
+      {{ block "main" . }}{{ end }}
+    </main>
+  </div>
+</body>
+</html>
+
+<footer class="site-footer">
+  <span>© {{ now.Format "2006" }} Marc Sabatier Hvidkjær. All rights reserved.</span>
+  <span> Last updated:
+    {{ with .Lastmod }}{{ .Format "January 2, 2006" }}
+    {{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }}
+  </span>
+</footer>

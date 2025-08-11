@@ -1,6 +1,6 @@
 **Publications**
 
-Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. *Politica*. [link](https://tidsskrift.dk/politica/article/view/153270), [pdf](https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf)
+Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. *Politica*. [Link](https://tidsskrift.dk/politica/article/view/153270), [PDF](https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf)
 
 <details style="display:inline-block; margin-left:1em;">
   <summary>Abstract</summary>
@@ -37,7 +37,7 @@ Do voters internalize their future income position into their current tax prefer
 
 **Miscellaneous**
 
-Expectations (2024). Master’s Thesis. [pdf](https://marchvidkjaer.github.io/files/expectations_MSH_mastersthesis_310524.pdf)
+Expectations (2024). Master’s Thesis. [PDF](https://marchvidkjaer.github.io/files/expectations_MSH_mastersthesis_310524.pdf)
 <br />*Awarded “Udemærkelsesprisen”* <br />
 <details style="display:inline-block; margin-left:1em;">
   <summary>Abstract</summary>
