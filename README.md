@@ -222,3 +222,8 @@ This repo publishes from the docs/ folder.
 
 - **Code:** MIT (reuse welcome)  
 - **Content:** © Marc Sabatier Hvidkjær. All rights reserved.
+
+## To do list
+
+* reverse ordering of lists
+* organize files into folders (plots, articles)

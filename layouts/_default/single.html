@@ -1,6 +1,4 @@
 {{ define "main" }}
-  {{ if not .IsHome }}
-    <h1 class="page-title">{{ .Title }}</h1>
-  {{ end }}
+  <h1 class="page-title">{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
