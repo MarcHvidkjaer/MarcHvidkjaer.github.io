@@ -1,10 +1,6 @@
----
-title: "Research"
----
+**Publications**
 
-*Publications*
-
-Political Representation in Danish Local Democracy (2025) *Politica*. Joint with Martin Vinæs Larsen. [PDF](https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf)
+Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. *Politica*. [link](https://tidsskrift.dk/politica/article/view/153270), [pdf](https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf)
 
 <details style="display:inline-block; margin-left:1em;">
   <summary>Abstract</summary>
@@ -20,9 +16,10 @@ Local politicians play a pivotal role in Danish democracy, but little is known o
   </p>
 </details>
 
-*Work in Progress*
 
-The Effect of Raising Income Expectations on Tax Preferences (2025)
+**Work in Progress**
+
+The Effect of Raising Income Expectations on Tax Preferences
 <details style="display:inline-block; margin-left:1em;">
   <summary>Abstract</summary>
   <p>
@@ -38,9 +35,9 @@ Do voters internalize their future income position into their current tax prefer
 </details>
 
 
-*Thesis*
+**Miscellaneous**
 
-Expectations (2024). Master’s Thesis. [PDF](https://marchvidkjaer.github.io/files/expectations_MSH_mastersthesis_310524.pdf)
+Expectations (2024). Master’s Thesis. [pdf](https://marchvidkjaer.github.io/files/expectations_MSH_mastersthesis_310524.pdf)
 <br />*Awarded “Udemærkelsesprisen”* <br />
 <details style="display:inline-block; margin-left:1em;">
   <summary>Abstract</summary>
