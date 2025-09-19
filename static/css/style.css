@@ -54,8 +54,10 @@ header nav a:hover{ text-decoration:underline }
 }
 
 /* Sidebar (left column) */
-.sidebar{
-  flex:0 0 220px;                             /* fixed-ish width close to old look */
+.sidebar {
+  flex: 0 0 auto;
+  min-width: 390px;
+  max-width: 450px;
 }
 .sidebar img{
   width:100%; border-radius:10px; display:block;

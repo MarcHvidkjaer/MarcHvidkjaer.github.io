@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome! on My marchvidkjaer.com site</title>
-    <link>https://marchvidkjaer.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome! on My marchvidkjaer.com site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://marchvidkjaer.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://marchvidkjaer.com/pages/research/</link>
+      <link>http://localhost:1313/pages/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marchvidkjaer.com/pages/research/</guid>
+      <guid>http://localhost:1313/pages/research/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. &lt;em&gt;Politica&lt;/em&gt;. &lt;a href=&#34;https://tidsskrift.dk/politica/article/view/153270&#34;&gt;Link&lt;/a&gt;, &lt;a href=&#34;https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;details style=&#34;display:inline-block; margin-left:1em;&#34;&gt;&#xA;  &lt;summary&gt;Abstract&lt;/summary&gt;&#xA;  &lt;p&gt;&#xA;    &lt;!-- Your abstract text here --&gt;&#xA;Local politicians play a pivotal role in Danish democracy, but little is known on how well they represent their constituents. This is hard to study, as it requires comparable data on the political preferences of politicians and voters. We overcome this issue by comparing the attitudes of local politicians on a wide range of local political items given to a Voting Advice Application before the 2021 municipal election to a nationally representative survey we field in 2023 (n=28.817). We find a strong relationship between citizen and politician preferences across local issues and municipalities. We also examine whether homeowners are better represented than renters. This is not the case, as we show that owners and renters mostly agree on local policy, and they are represented proportionally to their share of the population.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Media</title>
-      <link>https://marchvidkjaer.com/pages/media/</link>
+      <link>http://localhost:1313/pages/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marchvidkjaer.com/pages/media/</guid>
+      <guid>http://localhost:1313/pages/media/</guid>
       <description>&lt;p&gt;I write op-eds, essays and book reviews regularly. I have also written on &lt;a href=&#34;https://marchvidkjaer.substack.com/&#34;&gt;Substack&lt;/a&gt; and &lt;a href=&#34;https://medium.com/@marcsabatierhvidkjaer&#34;&gt;Medium&lt;/a&gt;. Here is a non-exhaustive list of appearances and contributions in the media:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.weekendavisen.dk/ideer/klogt-krudt&#34;&gt;”Klogt krudt”&lt;/a&gt;, Weekendavisen, 04.07.25&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.weekendavisen.dk/opinion/truslen-kommer-fra-hoejre&#34;&gt;”Truslen kommer fra højre”&lt;/a&gt;, Weekendavisen, 06.06.25&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://politiken.dk/debat/debatindlaeg/art10382575/Trumps-kamp-mod-universiteterne-skaber-frygt-blandt-internationale-studerende&#34;&gt;”Trumps kamp mod universiteterne skaber frygt blandt internationale studerende”&lt;/a&gt;, Politiken, 30.04.25&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.berlingske.dk/synspunkter/dansk-phd-studerende-ved-harvard-universitet-havde-jeg-blot-dansk-pas?gaa_at=eafs&amp;amp;gaa_n=ASWzDAhGTIQQbRC6iuf_tQ1h7RKNykLFC8aN2BVTeixABHQXvxRfevY_xK9YkQboKJA%3D&amp;amp;gaa_ts=687bb122&amp;amp;gaa_sig=5chx7Q1ZOLwNihIcL8CB40emswRH6vUJQJ5ADbM3Jx7N8iaSOvUmfPnEih48a9CtAjIMCoU3D_sQKq4An6mXRQ%3D%3D&#34;&gt;”Trumps kamp mod universiteterne skaber frygt blandt internationale studerende”&lt;/a&gt;, Berlingske, 03.04.25&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://politiken.dk/debat/debatindlaeg/art10232062/Afbl%C3%A6s-opr%C3%B8ret-og-bed-politikerne-om-at-bygge&#34;&gt;”Afblæs oprøret, og bed politikerne om at bygge”&lt;/a&gt;, written with Martin Vinæs Larsen, Politiken, 24.01.25&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://marchvidkjaer.com/pages/teaching/</link>
+      <link>http://localhost:1313/pages/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marchvidkjaer.com/pages/teaching/</guid>
+      <guid>http://localhost:1313/pages/teaching/</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;&lt;em&gt;Spring 2024&lt;/em&gt;: Quantitative Methods, 1st year BSc course, University of Copenhagen, TA for Associate Professor Carolin Rapp&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Fall 2023&lt;/em&gt;: Comparative Politics III, 3rd year BSc course, University of Copenhagen, TA for Professor Jacob Hariri&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I created a &lt;a href=&#34;http://medandreord.dk/maos-nye-podcast-det-akademiske-kvarter/&#34;&gt;podcast&lt;/a&gt; as a compendium to the course in Comparative Politics. It was made in collaboration with the other TAs, who guested the podcast.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/dk/podcast/%C3%B8konomisk-udvikling-demokrati/id1644873072?i=1000579321369&#34;&gt;Economic Development and Democracy&lt;/a&gt; with Benedikte Grundtvig Huber&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/dk/podcast/stater-imperier/id1644873072?i=1000579371705&#34;&gt;States &amp;amp; Empires&lt;/a&gt; with Benedikte Grundtvig Huber&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/dk/podcast/fra-tidlige-parlamenter-til-moderne-demokratier/id1644873072?i=1000580560652&#34;&gt;From Early Parliaments to Modern Democracy&lt;/a&gt; with Aksel Hvid&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/dk/podcast/koloniseringens-indflydelse-p%C3%A5-demokratisk-udvikling/id1644873072?i=1000581283897&#34;&gt;Colonialialism and Democratization&lt;/a&gt; with Aksel Hvid&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/dk/podcast/revolutioner/id1644873072?i=1000584411254&#34;&gt;Revolutions&lt;/a&gt; with Aksel Hvid&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/dk/podcast/pr%C3%A6sidenter-parlamenter-og-p%C3%B8blen/id1644873072?i=1000586876727&#34;&gt;Presidents, Parliaments and the Plebs&lt;/a&gt; with Lasse Spangenberg&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/dk/podcast/ba-special/id1644873072?i=1000590080116&#34;&gt;BA Special&lt;/a&gt; with Benedikte Beck&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
