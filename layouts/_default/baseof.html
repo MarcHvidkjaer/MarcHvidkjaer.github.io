@@ -4,7 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
-  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+  <!-- Replace the stylesheet link with a cache-busted one -->
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}?v={{ now.Unix }}">
 </head>
 <body>
   <header>
@@ -36,13 +38,14 @@
       {{ block "main" . }}{{ end }}
     </main>
   </div>
+
+  <!-- Footer must be inside <body> -->
+  <footer class="site-footer">
+    <span>© {{ now.Format "2006" }} Marc Sabatier Hvidkjær. All rights reserved.</span>
+    <span> Last updated:
+      {{ with .Lastmod }}{{ .Format "January 2, 2006" }}
+      {{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }}
+    </span>
+  </footer>
 </body>
 </html>
-
-<footer class="site-footer">
-  <span>© {{ now.Format "2006" }} Marc Sabatier Hvidkjær. All rights reserved.</span>
-  <span> Last updated:
-    {{ with .Lastmod }}{{ .Format "January 2, 2006" }}
-    {{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }}
-  </span>
-</footer>
