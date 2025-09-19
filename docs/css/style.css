@@ -55,7 +55,7 @@ header nav a:hover{ text-decoration:underline }
 
 /* Sidebar (left column) */
 .sidebar {
-  flex: 0 0 365px;   /* no grow, no shrink, basis = 365px */
+  flex: 0 0 360px;   /* no grow, no shrink, basis = 365px */
 }
 
 
