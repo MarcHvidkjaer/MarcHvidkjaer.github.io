@@ -53,16 +53,13 @@ header nav a:hover{ text-decoration:underline }
   gap:48px;                                   /* space between columns */
 }
 
-/* Sidebar (left column) */
-/* Sidebar (left column) — fixed 360px */
+/* Sidebar (left column) — lock it */
 .sidebar{
-  flex: 0 0 360px;
-  min-width: 360px;
-  max-width: 360px;
+  flex: 0 0 230px;   /* basis */
+  min-width: 230px;  /* lock lower bound */
+  max-width: 230px;  /* lock upper bound */
   box-sizing: border-box;
 }
-
-
 
 .sidebar img {
   display: block;
