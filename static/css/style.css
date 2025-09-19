@@ -55,18 +55,25 @@ header nav a:hover{ text-decoration:underline }
 
 /* Sidebar (left column) */
 .sidebar {
-  flex: 0 0 auto;
+  /* fixed column: no grow, no shrink, 360px wide */
+  flex: 0 0 360px;
   min-width: 360px;
-  max-width: 380;
+  max-width: 370px; /* or just 360px if you want it fixed */
 }
-.sidebar img{
-  width:100%; border-radius:10px; display:block;
-  box-shadow:0 1px 2px rgba(0,0,0,.06);
-  margin-bottom:14px;
+
+.sidebar img {
+  display: block;
+  width: 100%;
+  height: auto;      /* keep aspect ratio */
+  max-width: 100%;   /* never overflow the column */
+  border-radius: 10px;
+  box-shadow: 0 1px 2px rgba(0,0,0,.06);
+  margin-bottom: 14px;
 }
-.sidebar .bold{ font-weight:700 }
-.sidebar p{ margin:0 0 0px }
-.sidebar .dept{ color:var(--crimson) }
+
+.sidebar .bold { font-weight: 700; }
+.sidebar p { margin: 0; }
+.sidebar .dept { color: var(--crimson); }
 
 .contact-info{ margin-top:20px }
 .contact-info a{
