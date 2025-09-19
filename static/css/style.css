@@ -55,11 +55,9 @@ header nav a:hover{ text-decoration:underline }
 
 /* Sidebar (left column) */
 .sidebar {
-  /* fixed column: no grow, no shrink, 360px wide */
-  flex: 0 0 360px;
-  min-width: 360px;
-  max-width: 370px; /* or just 360px if you want it fixed */
+  flex: 0 0 365px;   /* no grow, no shrink, basis = 365px */
 }
+
 
 .sidebar img {
   display: block;
