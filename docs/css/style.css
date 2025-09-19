@@ -54,9 +54,14 @@ header nav a:hover{ text-decoration:underline }
 }
 
 /* Sidebar (left column) */
-.sidebar {
-  flex: 0 0 360px;   /* no grow, no shrink, basis = 365px */
+/* Sidebar (left column) — fixed 360px */
+.sidebar{
+  flex: 0 0 360px;
+  min-width: 360px;
+  max-width: 360px;
+  box-sizing: border-box;
 }
+
 
 
 .sidebar img {
