@@ -2,8 +2,6 @@
 
 Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. *Politica*. 
 
-[Link](https://tidsskrift.dk/politica/article/view/153270), [PDF](https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf). Media coverage: [Momentum](https://www.kl.dk/momentum/arkiv/2025/9-flere-graanende-kommunalpolitikere-men-holdningerne-flugter-langt-hen-ad-vejen-stadig-med-vaelgernes)
-
 <details style="display:inline-block; margin-left:1em;">
   <summary>Abstract</summary>
   <p>
