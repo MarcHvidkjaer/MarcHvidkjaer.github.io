@@ -1,6 +1,6 @@
 **Publications**
 
-Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. *Politica*. 
+Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. *Politica*.
 
 <details style="display:inline-block; margin-left:1em;">
   <summary>Abstract</summary>
