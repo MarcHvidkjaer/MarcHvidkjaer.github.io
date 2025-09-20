@@ -40,12 +40,10 @@
   </div>
 
   <!-- Footer must be inside <body> -->
-  <footer class="site-footer">
-    <span>© {{ now.Format "2006" }} Marc Sabatier Hvidkjær. All rights reserved.</span>
-    <span> Last updated:
-      {{ with .Lastmod }}{{ .Format "January 2, 2006" }}
-      {{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }}
-    </span>
-  </footer>
-</body>
-</html>
+ <footer class="site-footer">
+  <span>Photo: Minda de Gunzburg Center for European Studies, Harvard University.</span><br>
+  <span>© {{ now.Format "2006" }} Marc Sabatier Hvidkjær. Last updated:
+    {{ with .Lastmod }}{{ .Format "January 2, 2006" }}
+    {{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }}
+  </span>
+</footer>

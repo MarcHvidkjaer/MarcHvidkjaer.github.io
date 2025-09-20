@@ -117,6 +117,22 @@ header nav a:hover{ text-decoration:underline }
   max-width:100%; height:auto; display:block; margin:16px auto;
 }
 
+<details style="display:inline-block; margin-left:1em;">
+  <summary>Links</summary>
+  <ul style="list-style:none; padding-left:0; margin:0.25rem 0 0.5rem;">
+    <li style="margin:0.25rem 0;">
+      <a href="https://tidsskrift.dk/politica/article/view/153270">Journal page</a>
+    </li>
+    <li style="margin:0.25rem 0;">
+      <a href="https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf">PDF</a>
+    </li>
+    <li style="margin:0.25rem 0;">
+      <a href="https://www.kl.dk/momentum/arkiv/2025/9-flere-graanende-kommunalpolitikere-men-holdningerne-flugter-langt-hen-ad-vejen-stadig-med-vaelgernes">Media coverage: Momentum</a>
+    </li>
+  </ul>
+</details>
+
+
 /* =========
    Responsive
    ========= */

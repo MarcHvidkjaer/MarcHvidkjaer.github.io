@@ -5,10 +5,9 @@ title: "Media"
 
 I write op-eds, essays and book reviews regularly. I have also written on [Substack](https://marchvidkjaer.substack.com/) and [Medium](https://medium.com/@marcsabatierhvidkjaer). Here is a non-exhaustive list of appearances and contributions in the media:
 
+1. ["Når medvind giver modvind"](https://www.weekendavisen.dk/ideer/naar-medvind-giver-modvind), Weekendavisen, 19.09.25
 1. [”Klogt krudt”](https://www.weekendavisen.dk/ideer/klogt-krudt), Weekendavisen, 04.07.25
-
 1. [”Truslen kommer fra højre”](https://www.weekendavisen.dk/opinion/truslen-kommer-fra-hoejre), Weekendavisen, 06.06.25
-
 1. [”Trumps kamp mod universiteterne skaber frygt blandt internationale studerende”](https://politiken.dk/debat/debatindlaeg/art10382575/Trumps-kamp-mod-universiteterne-skaber-frygt-blandt-internationale-studerende), Politiken, 30.04.25
 1. [”Trumps kamp mod universiteterne skaber frygt blandt internationale studerende”](https://www.berlingske.dk/synspunkter/dansk-phd-studerende-ved-harvard-universitet-havde-jeg-blot-dansk-pas?gaa_at=eafs&gaa_n=ASWzDAhGTIQQbRC6iuf_tQ1h7RKNykLFC8aN2BVTeixABHQXvxRfevY_xK9YkQboKJA%3D&gaa_ts=687bb122&gaa_sig=5chx7Q1ZOLwNihIcL8CB40emswRH6vUJQJ5ADbM3Jx7N8iaSOvUmfPnEih48a9CtAjIMCoU3D_sQKq4An6mXRQ%3D%3D), Berlingske, 03.04.25
 1. [”Afblæs oprøret, og bed politikerne om at bygge”](https://politiken.dk/debat/debatindlaeg/art10232062/Afbl%C3%A6s-opr%C3%B8ret-og-bed-politikerne-om-at-bygge), written with Martin Vinæs Larsen, Politiken, 24.01.25

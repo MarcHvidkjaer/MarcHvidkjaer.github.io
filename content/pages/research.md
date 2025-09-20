@@ -1,6 +1,8 @@
 **Publications**
 
-Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. *Politica*. [Link](https://tidsskrift.dk/politica/article/view/153270), [PDF](https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf)
+Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 2025. *Politica*. 
+
+[Link](https://tidsskrift.dk/politica/article/view/153270), [PDF](https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf). Media coverage: [Momentum](https://www.kl.dk/momentum/arkiv/2025/9-flere-graanende-kommunalpolitikere-men-holdningerne-flugter-langt-hen-ad-vejen-stadig-med-vaelgernes)
 
 <details style="display:inline-block; margin-left:1em;">
   <summary>Abstract</summary>
@@ -8,6 +10,7 @@ Political Representation in Danish Local Democracy (With Martin Vinæs Larsen). 
     <!-- Your abstract text here -->
 Local politicians play a pivotal role in Danish democracy, but little is known on how well they represent their constituents. This is hard to study, as it requires comparable data on the political preferences of politicians and voters. We overcome this issue by comparing the attitudes of local politicians on a wide range of local political items given to a Voting Advice Application before the 2021 municipal election to a nationally representative survey we field in 2023 (n=28.817). We find a strong relationship between citizen and politician preferences across local issues and municipalities. We also examine whether homeowners are better represented than renters. This is not the case, as we show that owners and renters mostly agree on local policy, and they are represented proportionally to their share of the population.</p>
 </details>
+
 <details style="display:inline-block; margin-left:1em;">
   <summary>Figure</summary>
   <p>
@@ -15,6 +18,18 @@ Local politicians play a pivotal role in Danish democracy, but little is known o
     <img src="/files/politica_lejer.png" alt="Politica Lejer" style="max-width:100%;">
   </p>
 </details>
+
+<details style="display:inline-block; margin-left:1em;">
+  <summary>Links</summary>
+  <p style="margin:0;">
+    <a href="https://tidsskrift.dk/politica/article/view/153270">Journal page</a><br>
+    <a href="https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf">PDF</a><br>
+    Media coverage: <a href="https://www.kl.dk/momentum/arkiv/2025/9-flere-graanende-kommunalpolitikere-men-holdningerne-flugter-langt-hen-ad-vejen-stadig-med-vaelgernes">Momentum</a>
+  </p>
+</details>
+
+
+
 
 
 **Work in Progress**
@@ -35,7 +50,7 @@ Do voters internalize their future income position into their current tax prefer
 </details>
 
 
-**Miscellaneous**
+**Other**
 
 Expectations (2024). Master’s Thesis. [PDF](https://marchvidkjaer.github.io/files/expectations_MSH_mastersthesis_310524.pdf)
 <br />*Awarded “Udemærkelsesprisen”* <br />
