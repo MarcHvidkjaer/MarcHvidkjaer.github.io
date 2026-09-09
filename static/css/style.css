@@ -96,6 +96,80 @@ header nav a:hover{ text-decoration:underline }
 .content h2{ margin:28px 0 10px; font-size:26px }
 .content p{ margin:14px 0 }
 
+/* Research papers */
+.paper-entry{
+  margin:0 0 30px;
+}
+.paper-top{
+  padding:0;
+  background:transparent;
+}
+.paper-entry .paper-reference{
+  margin:0;
+}
+.paper-panel{
+  margin-top:12px;
+  padding:18px;
+  border-radius:5px;
+}
+.paper-abstract-body p{
+  margin:0;
+}
+.paper-abstract-body{
+  background:#f4f4f4;
+  text-align:justify;
+  hyphens:auto;
+}
+.paper-media-body{
+  padding:11px 14px;
+  background:#e9e9e9;
+}
+.content .paper-media-list{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+.content .paper-media-list li{
+  margin:0;
+}
+.paper-figure-body{
+  padding:0;
+  background:transparent;
+  border-radius:0;
+}
+.paper-actions{
+  display:flex;
+  flex-wrap:nowrap;
+  align-items:center;
+  gap:16px;
+  margin-top:8px;
+  white-space:nowrap;
+}
+.paper-actions a,
+.paper-toggle{
+  font-weight:600;
+}
+.paper-toggle{
+  padding:0;
+  border:0;
+  color:var(--crimson);
+  background:transparent;
+  font:inherit;
+  font-weight:600;
+  cursor:pointer;
+}
+.paper-figure-body img{
+  margin:0 auto;
+}
+
+/* Teaching appointment note */
+.advisee-note{
+  margin-top:32px !important;
+  padding:14px 16px;
+  background:#f4f4f4;
+  border-left:3px solid var(--crimson);
+}
+
 /* Links inside content */
 .content a{
   color:var(--crimson); text-decoration:none;
@@ -150,6 +224,7 @@ header nav a:hover{ text-decoration:underline }
   }
   .sidebar{ flex:none; width:100%; text-align:center }
   .sidebar img{ max-width:180px; margin:0 auto 14px }
+  .paper-actions{ flex-wrap:wrap }
 }
 
 /* =========
