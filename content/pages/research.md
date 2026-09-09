@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Research by Marc Sabatier Hvidkjær on political representation, political behavior, reindustrialization, and political economy."
+description: "Research by Marc Sabatier Hvidkjaer on political representation, political behavior, reindustrialization, and political economy."
 ---
 
 **Publications**

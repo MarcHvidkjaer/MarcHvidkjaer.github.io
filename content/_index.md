@@ -1,7 +1,7 @@
 
 ---
-title: "Marc Sabatier Hvidkjær"
-description: "Marc Sabatier Hvidkjær is a PhD candidate at Harvard University studying political representation, political behavior, and political economy."
+title: "Marc Sabatier Hvidkjaer"
+description: "Marc Sabatier Hvidkjaer is a PhD candidate at Harvard University studying political representation, political behavior, and political economy."
 ---
 
 I am a PhD candidate at the Department of Government at Harvard University. My research interests lie in Comparative Politics and Political Economy. I study political representation and behavior, with particular attention to how economic conditions and ideas shape politics. At Harvard, I am affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), the [Center for American Political Studies](https://caps.gov.harvard.edu/) and the [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu/).

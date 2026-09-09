@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ if .IsHome }}Marc Sabatier Hvidkjær | PhD Candidate at Harvard University{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <title>{{ if .IsHome }}Marc Sabatier Hvidkjaer | PhD Candidate at Harvard University{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   {{ $description := .Params.description | default .Site.Params.description }}
   <meta name="description" content="{{ $description }}">
-  <meta name="author" content="Marc Sabatier Hvidkjær">
+  <meta name="author" content="Marc Sabatier Hvidkjaer">
   {{ if .IsHome }}
   <script type="application/ld+json">
   {
@@ -16,21 +16,21 @@
         "@type": "WebSite",
         "@id": "{{ .Site.BaseURL }}#website",
         "url": "{{ .Site.BaseURL }}",
-        "name": "Marc Sabatier Hvidkjær"
+        "name": "Marc Sabatier Hvidkjaer"
       },
       {
         "@type": "ProfilePage",
         "@id": "{{ .Site.BaseURL }}#profile",
         "url": "{{ .Site.BaseURL }}",
-        "name": "Marc Sabatier Hvidkjær",
+        "name": "Marc Sabatier Hvidkjaer",
         "isPartOf": { "@id": "{{ .Site.BaseURL }}#website" },
         "mainEntity": { "@id": "{{ .Site.BaseURL }}#person" }
       },
       {
         "@type": "Person",
         "@id": "{{ .Site.BaseURL }}#person",
-        "name": "Marc Sabatier Hvidkjær",
-        "alternateName": "Marc Sabatier Hvidkjaer",
+        "name": "Marc Sabatier Hvidkjaer",
+        "alternateName": "Marc Sabatier Hvidkjær",
         "url": "{{ .Site.BaseURL }}",
         "image": "{{ "images/CES_profile3.jpg" | absURL }}",
         "jobTitle": "PhD Candidate",
@@ -70,8 +70,8 @@
 
   <div class="container">
     <aside class="sidebar">
-      <img src="{{ "images/CES_profile3.jpg" | relURL }}" alt="Profile Picture">
-      <p class="bold">Marc Sabatier Hvidkjær</p>
+      <img src="{{ "images/CES_profile3.jpg" | relURL }}" alt="Portrait of Marc Sabatier Hvidkjaer">
+      <p class="bold">Marc Sabatier Hvidkjaer</p>
       <p>PhD Candidate</p>
       <p class="dept">Department of Government</p>
       <p>Harvard University</p>
@@ -89,7 +89,7 @@
 
   <!-- Footer must be inside <body> -->
   <footer class="site-footer">
-    <span>© {{ now.Format "2006" }} Marc Sabatier Hvidkjær. All rights reserved.</span>
+    <span>© {{ now.Format "2006" }} Marc Sabatier Hvidkjaer. All rights reserved.</span>
     <span> Last updated:
       {{ with .Lastmod }}{{ .Format "January 2, 2006" }}
       {{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }}
