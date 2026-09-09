@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description: "Teaching by Marc Sabatier Hvidkjær at Harvard University and the University of Copenhagen."
 ---
 
 1. *Fall 2026*: Strategic Models of Politics, Undergraduate Course, Harvard University, TF for Sarah Hummel

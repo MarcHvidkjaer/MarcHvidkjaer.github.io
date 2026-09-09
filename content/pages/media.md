@@ -1,5 +1,6 @@
 ---
 title: "Media"
+description: "Media appearances and writing by Marc Sabatier Hvidkjær, including essays, op-eds, interviews, and book reviews."
 ---
 
 

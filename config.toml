@@ -1,12 +1,13 @@
 baseURL = 'https://marchvidkjaer.com/'
 languageCode = 'en-us'
-title = 'My marchvidkjaer.com site'
+title = 'Marc Sabatier Hvidkjær'
 publishDir = "docs"
 enableGitInfo = true
 
+[params]
+description = "Marc Sabatier Hvidkjær is a PhD candidate at Harvard University studying political representation, political behavior, and political economy."
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
