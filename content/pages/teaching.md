@@ -15,5 +15,3 @@ I created a [podcast](http://medandreord.dk/maos-nye-podcast-det-akademiske-kvar
 1. [Revolutions](https://podcasts.apple.com/dk/podcast/revolutioner/id1644873072?i=1000584411254) with Aksel Hvid
 1. [Presidents, Parliaments and the Plebs](https://podcasts.apple.com/dk/podcast/pr%C3%A6sidenter-parlamenter-og-p%C3%B8blen/id1644873072?i=1000586876727) with Lasse Spangenberg
 1. [BA Special](https://podcasts.apple.com/dk/podcast/ba-special/id1644873072?i=1000590080116) with Benedikte Beck
-
-<p class="advisee-note">For concentration advisees, you may book an appointment with me <a href="https://calendly.com/marchvidkjaer-g/30min">here</a>.</p>

@@ -36,6 +36,7 @@ description: "Research by Marc Sabatier Hvidkjaer on political representation, p
     <p class="paper-reference">Reindustrialization and Political Change (With Hanno Hilbig and Vincent Heddesheimer).</p>
     <div class="paper-actions">
       <button type="button" class="paper-toggle" aria-expanded="false" aria-controls="reindustrialization-abstract">Abstract</button>
+      <a class="draft-request" href="mailto:marchvidkjaer@fas.harvard.edu?subject=Draft%20request%3A%20Reindustrialization%20and%20Political%20Change">Draft available upon request</a>
     </div>
   </div>
   <div id="reindustrialization-abstract" class="paper-panel paper-abstract-body" hidden>

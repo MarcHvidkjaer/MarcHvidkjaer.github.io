@@ -6,6 +6,7 @@ description: "Media appearances and writing by Marc Sabatier Hvidkjaer, includin
 
 I write op-eds, essays and book reviews regularly. I have also written on [Substack](https://marchvidkjaer.substack.com/) and [Medium](https://medium.com/@marcsabatierhvidkjaer). Here is a non-exhaustive list of appearances and contributions in the media:
 
+1. [”Opskriften på varig vækst”](https://www.weekendavisen.dk/ideer/opskriften-paa-varig-vaekst), Weekendavisen, 21.10.25
 1. ["Når medvind giver modvind"](https://www.weekendavisen.dk/ideer/naar-medvind-giver-modvind), Weekendavisen, 19.09.25
 1. [”Klogt krudt”](https://www.weekendavisen.dk/ideer/klogt-krudt), Weekendavisen, 04.07.25
 1. [”Truslen kommer fra højre”](https://www.weekendavisen.dk/opinion/truslen-kommer-fra-hoejre), Weekendavisen, 06.06.25
