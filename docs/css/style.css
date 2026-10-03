@@ -2,7 +2,7 @@
    Base
    ========= */
 :root{
-  --crimson:#A51C30;
+  --accent:#A51C30;
   --text:#333;
   --muted:#666;
   --maxw:1000px;
@@ -34,10 +34,17 @@ header .inner{
   justify-content:flex-end;
   align-items:center;
 }
+header nav{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px 24px;
+}
 header nav a{
-  color:var(--crimson);
+  color:var(--accent);
   text-decoration:none;
-  margin-left:24px;
+  display:inline-flex;
+  align-items:center;
+  min-height:44px;
   font-weight:500;
 }
 header nav a:hover{ text-decoration:underline }
@@ -73,17 +80,18 @@ header nav a:hover{ text-decoration:underline }
 
 .sidebar .bold { font-weight: 700; }
 .sidebar p { margin: 0; }
-.sidebar .dept { color: var(--crimson); }
+.sidebar .dept { color: var(--accent); }
 
 .contact-info{ margin-top:20px }
 .contact-info a{
-  display:block; color:var(--crimson); text-decoration:none; margin:0px 0;}
+  display:block; color:var(--accent); text-decoration:none; margin:0px 0;}
 .contact-info a:hover{ text-decoration:underline }
 
 /* Content (right column) */
 .content{
   flex:1;
   min-width:0;
+  overflow-wrap:break-word;
 }
 
 /* Headings / typography */
@@ -152,7 +160,7 @@ header nav a:hover{ text-decoration:underline }
 .paper-toggle{
   padding:0;
   border:0;
-  color:var(--crimson);
+  color:var(--accent);
   background:transparent;
   font:inherit;
   font-weight:600;
@@ -162,17 +170,9 @@ header nav a:hover{ text-decoration:underline }
   margin:0 auto;
 }
 
-/* Teaching appointment note */
-.advisee-note{
-  margin-top:32px !important;
-  padding:14px 16px;
-  background:#f4f4f4;
-  border-left:3px solid var(--crimson);
-}
-
 /* Links inside content */
 .content a{
-  color:var(--crimson); text-decoration:none;
+  color:var(--accent); text-decoration:none;
 }
 .content a:hover{ text-decoration:underline }
 
@@ -191,20 +191,7 @@ header nav a:hover{ text-decoration:underline }
   max-width:100%; height:auto; display:block; margin:16px auto;
 }
 
-<details style="display:inline-block; margin-left:1em;">
-  <summary>Links</summary>
-  <ul style="list-style:none; padding-left:0; margin:0.25rem 0 0.5rem;">
-    <li style="margin:0.25rem 0;">
-      <a href="https://tidsskrift.dk/politica/article/view/153270">Journal page</a>
-    </li>
-    <li style="margin:0.25rem 0;">
-      <a href="https://politica.dk/fileadmin/politica/Dokumenter/early_view/hvidkjaer_larsen.pdf">PDF</a>
-    </li>
-    <li style="margin:0.25rem 0;">
-      <a href="https://www.kl.dk/momentum/arkiv/2025/9-flere-graanende-kommunalpolitikere-men-holdningerne-flugter-langt-hen-ad-vejen-stadig-med-vaelgernes">Media coverage: Momentum</a>
-    </li>
-  </ul>
-</details>
+
 
 
 /* =========
@@ -212,19 +199,24 @@ header nav a:hover{ text-decoration:underline }
    ========= */
 @media (max-width: 900px){
   .container{ gap:32px }
-  .page-title, .content h1:first-child{ font-size:36px }
+
 }
 @media (max-width: 768px){
-  header .inner{ justify-content:center }
-  header nav a{ margin-left:16px }
+  header .inner{ justify-content:center; padding:8px 16px }
+  header nav{ justify-content:center; gap:0 18px }
   .container{
     flex-direction:column;
     margin:20px auto;
     gap:20px;
   }
-  .sidebar{ flex:none; width:100%; text-align:center }
+  .sidebar{ flex:none; width:100%; min-width:0; max-width:none; text-align:center }
+  .contact-info{ display:flex; flex-wrap:wrap; justify-content:center; gap:0 20px; margin-top:10px }
+  .contact-info a{ display:inline-flex; align-items:center; min-height:44px }
   .sidebar img{ max-width:180px; margin:0 auto 14px }
-  .paper-actions{ flex-wrap:wrap }
+  .paper-actions{ flex-wrap:wrap; gap:0 18px }
+  .paper-actions a, .paper-toggle{ display:inline-flex; align-items:center; min-height:44px }
+  .paper-abstract-body{ text-align:left }
+  .content ol, .content ul{ padding-left:1.4rem; margin-left:0 }
 }
 
 /* =========
@@ -239,4 +231,9 @@ header nav a:hover{ text-decoration:underline }
   font-size: 14px;
   border-top: 1px solid #eee;
   text-align: center;
+}
+
+.paper-actions .draft-request{
+  font-weight:400;
+  font-style:italic;
 }
